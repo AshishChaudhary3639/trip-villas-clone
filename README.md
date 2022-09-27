@@ -22,9 +22,9 @@ This a collaborative project done within a 4 members team
 ```
 
 ## Demo
-![App Gif](https://im4.ezgif.com/tmp/ezgif-4-b137cf6424.gif)
+![App Gif](https://d2v8elt324ukrb.cloudfront.net/static/new_template/media/Pimal2-1.2d5d237dbd32.jpg)
 
-`Live Link` https://im4.ezgif.com/tmp/ezgif-4-b137cf6424.gif
+`Live Link` https://tripsvilla-clone-project.netlify.app/
 
 ## Tech Stack
 
